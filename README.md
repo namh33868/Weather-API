@@ -42,7 +42,7 @@ npm start
 
 ## Tác giả
 
-Nam Hoang
+Hoài Nam
 
 ## License
 
