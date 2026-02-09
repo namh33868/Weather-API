@@ -1,0 +1,5 @@
+tkinter
+pillow
+requests
+fastapi
+uvicorn[standard]
