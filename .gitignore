@@ -3,9 +3,8 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Build artifacts
+# Build artifacts (keep these if you create them)
 build/
-dist/
 *.spec
 
 # Virtual environments
